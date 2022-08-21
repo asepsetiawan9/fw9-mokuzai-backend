@@ -1,4 +1,3 @@
-
 const upload = require('../helpers/upload').array('picture');
 const response = require('../helpers/standardResponse');
 
